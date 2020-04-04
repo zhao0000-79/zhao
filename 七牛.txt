@@ -139,7 +139,7 @@ BTV少儿,http://111.40.205.87/PLTV/88888888/224/3221225654/index.m3u8
 泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
 泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
 
-全国频道，#genre#
+全国频道,#genre#
 CCTV-1综合HD,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
