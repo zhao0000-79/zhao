@@ -847,7 +847,7 @@ Newstv完美游戏,http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
 奉化生活娱乐,http://stream.fhtv.net.cn/ylpd/sd/live.m3u8
 镇海综合频道,http://stream.zhxwzx.com/1/sd/live.m3u8
 镇海先锋影视,http://stream.zhxwzx.com/2/sd/live.m3u8
-蓝光视频，#genre#
+蓝光视频,#genre#
 CCTV-1综合,http://www.dszbdq.cn/diao/ysp.php?tv=0210103
 CCTV-2财*,http://www.dszbdq.cn/diao/ysp.php?tv=0203603
 CCTV-3综艺,http://www.dszbdq.cn/diao/ysp.php?tv=0203803
