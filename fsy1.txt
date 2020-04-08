@@ -57,10 +57,7 @@ BTV少儿,http://111.40.205.87/PLTV/88888888/224/3221225654/index.m3u8
 
 轮播电影,#genre#
 
-邵氏电影,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
-邵氏影视,http://tx2play1.douyucdn.cn/live/4246519rbNFUb1Pf_2000.m3u8
-邵氏电影,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
-邵氏电影,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
+
 海爷TV动作,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
 海爷TV海外,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/471169/live_27444411_4287972.m3u8
 海爷TV国产,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_2538218.m3u8
