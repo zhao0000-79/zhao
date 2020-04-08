@@ -982,31 +982,7 @@ CCTV-少儿,http://223.110.241.203:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
 海看热播高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
 海看大片高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000407/index.m3u8
 海看4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
-少儿频道,#genre#
-动画电影,http：//101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
-喜羊羊与灰太狼,http：//101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
-梦啦A梦,http：//101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
-喜羊羊http：//101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
-名侦探柯南,http：//101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
-爱动漫,http：//101.71.255.229：6610 / zjhs / 2/10107 / index.m3u8？virtualDomain = zjhs.live_hls.zte.com
-靖天卡通,http：//61.58.60.230：9319 / live / 207.m3u8
-CINB动漫,http：//118.123.60.12：8114 / LIVES / Fsv_otype = 1＆FvSeid =＆Fsv_chan_hls_se_idx = 032＆Provider_id =＆Pcontent_id = index.m3u8
-央视新科动漫，http：//cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
-哈哈炫动,http：//125.210.152.18：9090 / live / XDKT.m3u8
-广东嘉佳,http：//nclive.grtn.cn/jjkt/sd/live.m3u8
-广东少儿,http：//nclive.grtn.cn/tvs5/sd/live.m3u8
-福州少儿,http：//live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
-优漫卡通,http：//ivi.bupt.edu.cn/livetv/ymkttv#http：//by4.nty.tv189.cn/live/tm-jsymktty-800k.m3u8
-CH5卡通,http：//live.streamingfast.net/osmflivech45.m3u8
-南京少儿,http：//live.nbs.cn/channels/njtv/sepd/flv：500k / live
-武汉少儿,http：//stream.appwuhan.com/7tzb/sd/live.m3u8
-甘肃少儿,http：//stream.gstv.com.cn/sepd/sd/live.m3u8
-福州少儿,http：//live.zohi.tv/video/s10001-sepd-4/index.m3u8
-山西少儿,http：//live2.sxrtv.com/flvss？bitrate = 800000＆channel = Shan1XiChild
-BTV卡酷少儿,http：//by4.nty.tv189.cn/tm-kaku-800k.m3u8#http：//ivi.bupt.edu.cn/player.html？channel = btv10＃http：//223.110 .245.143 / ott.js.chinamobile.com / PLTV / 3/224/3221226097 / index.m3u8＃http：//111.40.205.79/PLTV/88888888/224/3221225654/index.m3u8
-新疆少儿,http：//by4.nty.tv189.cn/live/tm-xjtv12-800k.m3u8
-云南少儿,http：//edge2.yntv.cn/channels/yntv/ynse/flv：sd / live＃http：//edge1.yntv.cn/channels/yntv/ynse/ts：sd / 1585646610000,1585646615000＃http ：//hwzbout.yunshicloud.com/62hdvf/ru416s.m3u8
-浙江少儿,http：//yf.mlcztv.com/channels/lantian/channel08/360p.m3u8
+
 ,#genre#
 
 ,#genre#
