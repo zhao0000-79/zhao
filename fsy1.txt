@@ -982,7 +982,7 @@ CCTV-少儿,http://223.110.241.203:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
 海看热播高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
 海看大片高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000407/index.m3u8
 海看4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000499/index.m3u8
-少儿频道，＃genre＃
+少儿频道,＃genre＃
 动画电影，http：//101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
 喜羊羊与灰太狼，http：//101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
 梦啦A梦，http：//101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
