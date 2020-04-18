@@ -225,7 +225,6 @@ Newstv完美游戏,http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
 蚌埠公共频道,http://newvod.ahbbtv.com:1935/live/smil:ggpd_copy.smil/playlist.m3u8
 蚌埠生活频道,http://newvod.ahbbtv.com:1935/live/smil:shpd_copy.smil/playlist.m3u8
 蚌埠文教频道,http://newvod.ahbbtv.com:1935/live/smil:wjpd_copy.smil/playlist.m3u8
-蚌埠公交频道,http://newvod.ahbbtv.com:1935/live/smil:gjpd_copy.smil/playlist.m3u8
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 宿州公共频道,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 宿州科教频道,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
