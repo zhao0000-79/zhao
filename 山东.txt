@@ -1,4 +1,5 @@
 山东频道,#genre#
+山东卫视,https://livealone302.iqilu.com/iqilu/sdtv.m3u8
 山东新闻,https://livealone302.iqilu.com/iqilu/ggpd.m3u8
 山东齐鲁,https://livealone302.iqilu.com/iqilu/qlpd.m3u8
 山东体育,https://livealone302.iqilu.com/iqilu/typd.m3u8
