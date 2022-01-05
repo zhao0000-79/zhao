@@ -1,61 +1,62 @@
-山东,#genre#
-CCTV-1 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
-CCTV-2 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
-CCTV-3,http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
-CCTV-4 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
-CCTV5+ ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
-CCTV-6,http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
-CCTV-7 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
-CCTV-8,http://39.135.138.58:18890/PLTV/88888888/224/3221225631/index.m3u8
-CCTV-9 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
-CCTV10 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
-CCTV11 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
-CCTV12 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
-CCTV13 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
-CCTV14 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
-CCTV15 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
-CCTV16 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000364/index.m3u8
-CCTV17 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
-中国交通http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
-CETV1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
-泰安综合http://39.135.157.230:8089/PLTV/88888888/224/3221225720/index.m3u8
-泰安公共http://39.135.157.230:8089/PLTV/88888888/224/3221225990/index.m3u8
-山东卫视 ,https://livealone302.iqilu.com/iqilu/sdtv.m3u8
-山东齐鲁,https://livealone302.iqilu.com/iqilu/qlpd.m3u8
-山东齐鲁http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
-山东生活 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
-山东综艺 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
-山东体育 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
-山东新闻 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
-山东农科 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
-山东少儿 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
-山东文旅 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
-山东教育 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
-东南卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
-东方卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
-北京卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
-四川卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000348/index.m3u8
-天津卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
-安徽卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
-山东卫视 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
-广东卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
-江苏卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
-江西卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8
-河北卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
-浙江卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
-海南卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
-深圳卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
-湖北卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
-湖南卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
-甘肃卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
-贵州卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
-辽宁卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
-重庆卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8
-黑龙江卫视 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
-海看剧场 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000403/index.m3u8
-海看少儿 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000402/index.m3u8
-海看热播 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
-海看电竞 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000408/index.m3u8
-海看爱宠 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000202/index.m3u8
-Hot亚洲影院 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
-Hot欧美影院 ,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
+山东TV#genre#http://epg.51zmt.top:8000/api/diyp/
+CCTV1,http://39.134.144.6:8089/PLTV/88888888/224/3221225859/index.m3u8
+CCTV2,http://39.134.144.6:8089/PLTV/88888888/224/3221225751/index.m3u8
+CCTV3,http://39.134.144.6:8089/PLTV/88888888/224/3221226338/index.m3u8
+CCTV4,http://39.134.144.6:8089/PLTV/88888888/224/3221225757/index.m3u8
+CCTV4-美洲,http://39.134.144.6:8089/PLTV/88888888/224/3221226395/index.m3u8
+CCTV4-欧洲,http://39.134.144.6:8089/PLTV/88888888/224/3221226318/index.m3u8
+CCTV5,http://39.134.144.6:8089/PLTV/88888888/224/3221226425/index.m3u8
+CCTV5+,http://39.134.144.6:8089/PLTV/88888888/224/3221225781/index.m3u8
+CCTV6,http://39.134.144.6:8089/PLTV/88888888/224/3221226427/index.m3u8
+CCTV7,http://39.134.144.6:8089/PLTV/88888888/224/3221225753/index.m3u8
+CCTV8,http://39.134.144.6:8089/PLTV/88888888/224/3221226429/index.m3u8
+CCTV9,http://39.134.144.6:8089/PLTV/88888888/224/3221225759/index.m3u8
+CCTV10,http://39.134.144.6:8089/PLTV/88888888/224/3221225761/index.m3u8
+CCTV11,http://39.134.144.6:8089/PLTV/88888888/224/3221226407/index.m3u8
+CCTV12,http://39.134.144.6:8089/PLTV/88888888/224/3221225763/index.m3u8
+CCTV13,http://39.134.144.6:8089/PLTV/88888888/224/3221226328/index.m3u8
+CCTV14,http://39.134.144.6:8089/PLTV/88888888/224/3221225765/index.m3u8
+CCTV15,http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
+CCTV16,http://39.134.144.6:8089/PLTV/88888888/224/3221226475/index.m3u8
+CCTV17,http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
+山东卫视超清,http://39.135.140.227:6610/PLTV/88888888/224/3221225738/2/index.m3u8?fmt=ts2hls
+山东卫视http://39.134.144.6:8089/PLTV/88888888/224/3221226144/index.m3u8
+山东公共,http://39.134.144.6:8089/PLTV/88888888/224/3221226077/index.m3u8
+山东教育,http://39.134.144.6:8089/PLTV/88888888/224/3221226049/index.m3u8
+山东齐鲁,http://39.134.144.6:8089/PLTV/88888888/224/3221226045/index.m3u8
+山东综艺,http://39.134.144.6:8089/PLTV/88888888/224/3221225855/index.m3u8
+山东少儿,http://39.134.144.6:8089/PLTV/88888888/224/3221226195/index.m3u8
+山东生活,http://39.134.144.6:8089/PLTV/88888888/224/3221225841/index.m3u8
+山东体育,http://39.134.144.6:8089/PLTV/88888888/224/3221226075/index.m3u8
+山东文旅,http://39.134.144.6:8089/PLTV/88888888/224/3221225802/index.m3u8
+山东农科,http://39.134.144.6:8089/PLTV/88888888/224/3221226018/index.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰香港台,http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
+天津卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226485/index.m3u8
+浙江卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225585/index.m3u8
+湖南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225767/index.m3u8
+安徽卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225775/index.m3u8
+北京卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226146/index.m3u8
+重庆卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226310/index.m3u8
+东方卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226347/index.m3u8
+东南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226278/index.m3u8
+甘肃卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226387/index.m3u8
+广东卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226213/index.m3u8
+贵州卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225777/index.m3u8
+海南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226325/index.m3u8
+河北卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225779/index.m3u8
+河南卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226415/index.m3u8
+龙江卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226148/index.m3u8
+湖北卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225769/index.m3u8
+江苏卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226211/index.m3u8
+江西卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226312/index.m3u8
+辽宁卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221225789/index.m3u8
+深圳卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226150/index.m3u8
+四川卫视,http://39.134.144.6:8089/PLTV/88888888/224/3221226327/index.m3u8
+广西卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
+云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+中国教育1,http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
+Hot欧美影院,http://39.134.144.6:8089/PLTV/88888888/224/3221226345/index.m3u8
+Hot亚洲影院,http://39.134.144.6:8089/PLTV/88888888/224/3221225844/index.m3u8
+黑霉电竞,http://111.40.196.39/PLTV/88888888/224/3221225606/index.m3u8
